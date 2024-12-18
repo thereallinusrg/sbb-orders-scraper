@@ -1,6 +1,17 @@
 # PDFs
 *.pdf
 
+# Spreadsheet files
+*.xls 
+*.xlsx 
+*.xlsm 
+*.ods 
+*.csv
+*.tsv
+
+# name.txt
+name.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
